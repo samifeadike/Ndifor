@@ -1,0 +1,14 @@
+
+Git Ammend
+----------------
+
+$ git commit  --amend  -m "a"
+
+
+How to go back to previous version of code
+----------------------------------------------
+git reset --hard c9187df
+
+
+
+
